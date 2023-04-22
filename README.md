@@ -26,21 +26,21 @@ Map.html
         <title>My City</title>
     </head>
     <body>
-        <h1 align="center">
-            <font color="red"><b>Thiruninravur</b></font>
-        </h1>
-        <h3 align="center">
-            <font color="blue"><b>Prajeeth K T (212222110034)</b></font>
-        </h3>
-        <center>
-        <img src="/static/images/map.jpg"  width="1200" height="620" usemap="#image-maps-2023-04-21-050747"/>
-        <map name="image-maps-2023-04-21-050747">
-        <area  title="Claret matric. school" href="claret.html" shape="rect" coords="797,50,845,94"/>
-        <area  title="Perumal Temple" href="perumal.html" shape="rect" coords="542,540,575,577"/>
-        <area   title="Shivan Temple" href="shivan.html" shape="rect" coords="591,556,623,594"/>
-        <area   title="Theatre" href="theatre.html" shape="rect" coords="312,156,348,196"/>
-        <area   title="Thiruninravur" href="thiruninravur.html" shape="rect" coords="720,378,834,440"/>
-        </map>
+    <h1 align="center">
+        <font color="red"><b>Thiruninravur</b></font>
+    </h1>
+    <h3 align="center">
+        <font color="blue"><b>Prajeeth K T (212222110034)</b></font>
+    </h3>
+    <center>
+    <img src="/static/images/map.jpg"  width="1200" height="620" usemap="#image-maps-2023-04-21-050747"/>
+    <map name="image-maps-2023-04-21-050747">
+    <area  title="Claret matric. school" href="claret.html" shape="rect" coords="797,50,845,94"/>
+    <area  title="Perumal Temple" href="perumal.html" shape="rect" coords="542,540,575,577"/>
+    <area   title="Shivan Temple" href="shivan.html" shape="rect" coords="591,556,623,594"/>
+    <area   title="Theatre" href="theatre.html" shape="rect" coords="312,156,348,196"/>
+    <area   title="Thiruninravur" href="thiruninravur.html" shape="rect" coords="720,378,834,440"/>
+    </map>
         </centre>
     </body>
 </html>
@@ -63,7 +63,8 @@ Claret.html
         <hr size="3" color="red">
         <p align="justify">
             <font face="Arial" size="5">
-                St. Claret matric Hr. Secondary school is the school where I completed my higher secondary education.
+                St. Claret matric Hr. Secondary school is the school 
+                where I completed my higher secondary education.
                 It is a private un-aided school.
                 The infrastructure of the campus is quite impressive.
                 The teachers are very kind and the teaching is excellent.
@@ -102,7 +103,8 @@ The Moolavar is at a standing position facing east.
 The height of the Moolavar is around 10 ft (3.0 m). 
 The Utsavar (procession deity) is called Patharaavi is made of panchaloha 
 and is accompanied by two consorts as in most Vaishnavite temples. 
-There is a separate shrine for Ennai Petra Thayar also called Sudhavalli, the consort of Bakthavasala. 
+There is a separate shrine for Ennai Petra Thayar also called Sudhavalli, 
+the consort of Bakthavasala. 
 </font>
 </p>
 </body>
@@ -134,7 +136,8 @@ into four compartments probably displaying Poosalaar's conception.
 Parvati here is worshipped as Maragathambigai. 
 Poosalaar's statue is found with folded hands in the shrine of Irudhayaleeeswarar. 
 Irudhayaleeswarar is also worshipped as Manavaleswarar. 
-sPeople with an ailing heart is said to flock to this temple for speedy recovery due to Irudhayaleeswarar's grace.
+sPeople with an ailing heart is said to flock to this temple for speedy 
+recovery due to Irudhayaleeswarar's grace.
 </b>
 </font>
 </p>
@@ -162,9 +165,11 @@ Thiruninravur.html
 The name Thiruninravur comes from the Tamil words Thiru, nindra and vur. 
 The Tamil word Thiru represents the name for the Hindu god Perumal. 
 Nindra refers to stood and vur refers to a village or a place. 
-It is said that Lakshmi was travelling through the sky and saw this beautiful village and stood here; 
+It is said that Lakshmi was travelling through the sky and saw 
+this beautiful village and stood here; 
 she wondered how beautiful is this village.
-Thus the place came to be known as Thiru-ninra-vur, the village where Lakshmi-Narayana stood. 
+Thus the place came to be known as Thiru-ninra-vur, the village 
+where Lakshmi-Narayana stood. 
 </font>
 </p>
 </body>
